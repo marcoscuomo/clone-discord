@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { Button } from './styles';
+import logo from '../Images/logo192.png';
 
 export interface IButtonProps {
   selected?: boolean;
@@ -23,7 +24,7 @@ const ServerButton: React.FC<IButtonProps> = ({
       className={selected ? 'active' : ''}
 
     >
-      {isHome && <img src="https://svgshare.com/i/Pb9.svg" alt="Logo" />}
+      {isHome && <img src={logo} alt="Logo" />}
     </Button>
   )
 }

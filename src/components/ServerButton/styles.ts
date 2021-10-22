@@ -19,7 +19,7 @@ export const Button = styled.button<IButtonProps>`
   cursor: pointer;
 
   > img {
-    width: 24px;
+    width: 23px;
     height: 24px;
   }
 
