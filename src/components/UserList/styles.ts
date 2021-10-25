@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { ExpandMore } from 'styled-icons/material';
 
 export const Container = styled.div` 
   grid-area: UL;
@@ -9,7 +8,7 @@ export const Container = styled.div`
 
   padding: 3px 6px 0 16px;
   background: var(--secondary);
-
+  
   max-height: calc(100vh - 46px);
   overflow-y: scroll;
 
@@ -33,7 +32,7 @@ export const Role = styled.span`
   text-transform: uppercase;
   font-size: 12px;
   font-weight: 500;
-  color: var(--gray)
+  color: var(--gray);
 `
 
 export const User = styled.div` 
