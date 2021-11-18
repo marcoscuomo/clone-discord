@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+# Discord app clone developed with React and Styled components
+
+![alt text](https://lh3.googleusercontent.com/DEQe7xtV_kmmb447amx4vrcl7JHrCgK5X-zkHdXzpoV9Ky512ZiJwdpbywRRvHJ69Wc28MtuxTD_B6b_HB-SiRtXXCH8d3Qc2WoULfu7JWZZFhi1Gid4DL_ZImTpEu92LoFpZgF6r1xDa0WjkEZFbDbCWQ4JRYUbGhXJS1UhWh2cjU2owbADU5XRACT43GxVrI8lp4cy9hcqPHSSUdgJwF6dARbCa47mECUGzZJzZiAZOhjtmgjJXcqrQm8JF7RHvRkLnFr3oZhIS0tPu9EVtwk8PEghsWeIMk2E3XE2amfk9IoUsHzL-kzvWZkMlNqFob0a_Vmne7T7p8tTBnhQhaeyS63ARI4DY0tcLEChAL2O024ONzqvPNoP22lQUEMgAqgcwwEsCDWdqGfDBla1uywkGzFabKxHRYpT9IH9zrfVDU8U1TP63WUoNQL1R3h_-29s7wYqYB9XhF9m6pMGI52U6ph7aSoTkZjBMX7ISJPdeUyWlav1r3wcq3ONachol6jtZ2TQtcA8EU00PA3sqiD95mAtL2OTar_W9c9pDAw7cfcltedIdUe9hXmQlkzUCzNIEPh7VS8Yl5Y_xPacpdE_ZtaIvb4ekFIaVHi4BjMJFOaEaXYfeRtX0BH4pjG2SAmI-TW3YthK1Y0BiCXJLBivj01OBbaKAPCTmFelXnC5q9V3xkNDi2NwwpekwGzJCVCqNXnFfXRxmyPcK8r1Xq5L=w1419-h664-no?authuser=0)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
